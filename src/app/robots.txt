@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+Disallow: /private/
+
+Flag: CODE_CTF{Are_yOU_a_r
